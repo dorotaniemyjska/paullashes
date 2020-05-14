@@ -1,6 +1,10 @@
-Projekt rzesy
+# paullashes projekt o przedłużaniu rzęs
 
-----------------
-Html
-Css
-Js
+
+demo: 
+
+### Technologie:
+* Html
+* Css
+* Js
+
