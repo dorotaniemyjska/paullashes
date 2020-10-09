@@ -1,12 +1,11 @@
-# paullashes 
+# Paullashes 
 
-### projekt o przedłużaniu rzęs
+## demo: https://dorotaniemyjska.github.io/paullashes/
 
-
-demo: https://dorotaniemyjska.github.io/paullashes/
-
-### Technologie:
+### Technologies:
 * Html
 * Css
 * Js
 
+
+### projekt o przedłużaniu rzęs
