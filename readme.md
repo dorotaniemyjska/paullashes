@@ -1,8 +1,8 @@
 # Paullashes 
 
-## demo: https://dorotaniemyjska.github.io/paullashes/
+## demo https://dorotaniemyjska.github.io/paullashes/
 
-## Technologies:
+## Technologies
 * Html
 * Css
 * Js
